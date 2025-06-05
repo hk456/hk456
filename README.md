@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @hk456
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hk456/hk456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+hi
+just hanging by, making projects, doing shi 
+hope i can make anyone coming here see some amazing projects in the future
+as of now writing ts now, im learning C ;-; so yeah baby steps
